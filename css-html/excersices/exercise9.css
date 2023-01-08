@@ -1,0 +1,53 @@
+.red-square
+{   
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.green-circle
+{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    border-radius: 100px;
+
+}
+
+.card-image
+{
+    width: 200px;
+    height: 200px;
+    object-position: right;
+}
+
+.card-mutual
+{
+    font-size: 13px;
+    color: grey;
+}
+.card-text
+{
+
+    font-weight: bold;
+}
+
+.card-button
+{
+    background-color: rgb(70, 129, 238);
+    color: white;
+    border-radius: 3px;
+    border: none;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+}
+.card
+{
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+}
+

@@ -1,0 +1,50 @@
+.card-image
+{
+    width: 100%;
+    height: 80%;
+    object-position: right;
+}
+
+.card-mutual
+{
+    font-size: 13px;
+    color: grey;
+}
+.card-text
+{
+
+    font-weight: bold;
+}
+
+.card-button
+{
+    background-color: rgb(70, 129, 238);
+    color: white;
+    border-radius: 3px;
+    border: none;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+}
+
+.card-channel
+{
+    width:40px;
+    border-radius: 20px;
+}
+
+
+.card-grid
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 10px;
+}
+
+.channel-profile
+{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}

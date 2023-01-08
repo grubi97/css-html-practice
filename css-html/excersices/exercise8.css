@@ -1,0 +1,59 @@
+/* input{
+    border-radius: 5px;
+}
+
+.name-bar
+{
+    display: block;
+    margin-bottom: 5px;
+    
+}
+
+.test-p
+{
+    width: 200px;
+    display: inline-block;
+} */
+.ride-p
+{
+    font-size: 40px;
+}
+
+input
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: rgb(221, 217, 217)
+}
+.pickup
+{
+    display: block;
+    margin-bottom: 5px;
+}
+
+.src
+{
+    margin-bottom: 10px;
+    display: block;
+
+}
+
+.uber-btn{
+
+    background-color: black;
+    color: white;
+    cursor:pointer;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.schedule-btn{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border: none;
+    border-radius: 5px;
+}
